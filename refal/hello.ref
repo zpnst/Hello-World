@@ -1,0 +1,3 @@
+$ENTRY Go {
+    = <Print 'Hello, World!'>;
+}
